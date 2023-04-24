@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OS-Decoy", "OS-Decoy\OS-Decoy.csproj", "{C36678D3-8346-4021-8B87-60626150DDA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C36678D3-8346-4021-8B87-60626150DDA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C36678D3-8346-4021-8B87-60626150DDA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C36678D3-8346-4021-8B87-60626150DDA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C36678D3-8346-4021-8B87-60626150DDA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12BE86CB-2D79-478E-AD45-5811878CFC1A}
+	EndGlobalSection
+EndGlobal
